@@ -2,9 +2,9 @@
 repository for semantix codes 
 
 Remarks:
-* utilizei apenas o primeiro dataset pois o Segundo não foi possivel realizar o download
+* Utilizei apenas o primeiro dataset pois o Segundo não foi possivel realizar o download
 * Renomei como access_log_Jul95.txt
-* Criei este codigo utilizando o Anaconda, spark-2.4.0-bin-hadoop2.7,pysparck e Jupyter.
+* Criei este codigo utilizando o Anaconda, spark-2.4.0-bin-hadoop2.7,pyspark e Jupyter.
 
 Resultados:
 +------------+
